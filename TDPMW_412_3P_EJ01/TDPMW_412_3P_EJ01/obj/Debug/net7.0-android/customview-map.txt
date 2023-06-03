@@ -1,0 +1,94 @@
+@string/appbar_scrolling_view_behavior;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/fragment_backstack.xml
+@string/appbar_scrolling_view_behavior;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/navigationlayout.xml
+@string/appbar_scrolling_view_behavior;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/fragment_backstack.xml
+@string/appbar_scrolling_view_behavior;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/navigationlayout.xml
+adaptive-icon;obj/Debug/net7.0-android/resizetizer/r/mipmap-anydpi-v26/appicon_round.xml
+adaptive-icon;obj/Debug/net7.0-android/resizetizer/r/mipmap-anydpi-v26/appicon.xml
+alpha;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/anim/enterfromleft.xml
+alpha;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/anim/exittoleft.xml
+alpha;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_enter_anim.xml
+alpha;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_exit_anim.xml
+alpha;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_pop_enter_anim.xml
+alpha;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_pop_exit_anim.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/layout/shellcontent.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/navigationlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/layout/shellcontent.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/navigationlayout.xml
+androidx.drawerlayout.widget.DrawerLayout;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/drawer_layout.xml
+androidx.drawerlayout.widget.DrawerLayout;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/drawer_layout.xml
+androidx.fragment.app.FragmentContainerView;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/fragment_backstack.xml
+androidx.fragment.app.FragmentContainerView;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/navigationlayout.xml
+androidx.fragment.app.FragmentContainerView;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/fragment_backstack.xml
+androidx.fragment.app.FragmentContainerView;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/navigationlayout.xml
+attr;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/attrs.xml
+attr;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/values/attr.xml
+attr;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/attrs.xml
+background;obj/Debug/net7.0-android/resizetizer/r/mipmap-anydpi-v26/appicon_round.xml
+background;obj/Debug/net7.0-android/resizetizer/r/mipmap-anydpi-v26/appicon.xml
+bitmap;obj/Debug/net7.0-android/resizetizer/sp/drawable-v31/maui_splash_image.xml
+bitmap;obj/Debug/net7.0-android/resizetizer/sp/drawable/maui_splash_image.xml
+cache-path;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/155/jl/res/xml/microsoft_maui_essentials_fileprovider_file_paths.xml
+color;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/values/colors.xml
+color;obj/Debug/net7.0-android/res/values/colors.xml
+color;obj/Debug/net7.0-android/resizetizer/sp/values/maui_colors.xml
+com.google.android.material.appbar.AppBarLayout;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/layout/flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/layout/shellcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/navigationlayout.xml
+com.google.android.material.appbar.AppBarLayout;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/layout/flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/layout/shellcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/layout/navigationlayout.xml
+com.google.android.material.appbar.MaterialToolbar;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/layout/toolbar.xml
+com.google.android.material.tabs.TabLayout;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/layout/tabbar.xml
+com.google.android.material.tabs.TabLayout;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/layout/tabbar.xml
+declare-styleable;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/attrs.xml
+declare-styleable;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/values/attr.xml
+declare-styleable;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/attrs.xml
+external-cache-path;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/155/jl/res/xml/microsoft_maui_essentials_fileprovider_file_paths.xml
+external-path;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/155/jl/res/xml/microsoft_maui_essentials_fileprovider_file_paths.xml
+foreground;obj/Debug/net7.0-android/resizetizer/r/mipmap-anydpi-v26/appicon_round.xml
+foreground;obj/Debug/net7.0-android/resizetizer/r/mipmap-anydpi-v26/appicon.xml
+item;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/styles.xml
+item;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/drawable/maui_splash.xml
+item;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/values/styles.xml
+item;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/styles.xml
+item;obj/Debug/net7.0-android/resizetizer/sp/drawable-v31/maui_splash_image.xml
+item;obj/Debug/net7.0-android/resizetizer/sp/drawable/maui_splash_image.xml
+layer-list;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/drawable/maui_splash_image.xml
+layer-list;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/drawable/maui_splash.xml
+layer-list;obj/Debug/net7.0-android/resizetizer/sp/drawable-v31/maui_splash_image.xml
+layer-list;obj/Debug/net7.0-android/resizetizer/sp/drawable/maui_splash_image.xml
+microsoft.maui.controls.platform.compatibility.ShellFlyoutLayout;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/layout/flyoutcontent.xml
+microsoft.maui.controls.platform.compatibility.ShellFlyoutLayout;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/layout/flyoutcontent.xml
+paths;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/155/jl/res/xml/microsoft_maui_essentials_fileprovider_file_paths.xml
+resources;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/values/strings.xml
+resources;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/attrs.xml
+resources;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/styles.xml
+resources;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/153/jl/res/values/values.xml
+resources;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/values/attr.xml
+resources;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/values/colors.xml
+resources;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/values/styles.xml
+resources;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/attrs.xml
+resources;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/styles.xml
+resources;obj/Debug/net7.0-android/res/values/colors.xml
+resources;obj/Debug/net7.0-android/resizetizer/sp/values/maui_colors.xml
+set;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/anim/enterfromleft.xml
+set;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/anim/enterfromright.xml
+set;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/anim/exittoleft.xml
+set;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/anim/exittoright.xml
+set;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_enter_anim.xml
+set;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_exit_anim.xml
+set;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_pop_enter_anim.xml
+set;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_pop_exit_anim.xml
+string;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/values/strings.xml
+string;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/153/jl/res/values/values.xml
+style;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/styles.xml
+style;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/values/styles.xml
+style;/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/152/jl/res/values/styles.xml
+translate;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/anim/enterfromleft.xml
+translate;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/anim/enterfromright.xml
+translate;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/anim/exittoleft.xml
+translate;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/151/jl/res/anim/exittoright.xml
+translate;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_enter_anim.xml
+translate;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_exit_anim.xml
+translate;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_pop_enter_anim.xml
+translate;/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-android/lp/154/jl/res/anim/nav_default_pop_exit_anim.xml

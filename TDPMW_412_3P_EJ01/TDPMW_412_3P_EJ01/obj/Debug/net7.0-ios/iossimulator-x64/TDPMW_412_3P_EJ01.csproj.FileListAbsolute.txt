@@ -1,0 +1,538 @@
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.runtimeconfig.json
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.pdb
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Configuration.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Logging.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Logging.Debug.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Options.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Primitives.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.Graphics.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.CSharp.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.VisualBasic.Core.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.VisualBasic.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Win32.Primitives.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Win32.Registry.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.AppContext.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Buffers.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Collections.Concurrent.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Collections.Immutable.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Collections.NonGeneric.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Collections.Specialized.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Collections.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.Annotations.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.DataAnnotations.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.Primitives.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.TypeConverter.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Configuration.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Console.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Core.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Data.Common.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Data.DataSetExtensions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Data.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.Contracts.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.Debug.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.Process.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.StackTrace.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.Tools.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.TraceSource.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.Tracing.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Drawing.Primitives.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Drawing.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Dynamic.Runtime.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Formats.Asn1.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Formats.Tar.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Globalization.Calendars.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Globalization.Extensions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Globalization.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Compression.Brotli.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Compression.FileSystem.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Compression.ZipFile.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Compression.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.FileSystem.AccessControl.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.FileSystem.Primitives.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.FileSystem.Watcher.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.FileSystem.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.IsolatedStorage.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.MemoryMappedFiles.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Pipes.AccessControl.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Pipes.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Linq.Expressions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Linq.Parallel.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Linq.Queryable.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Linq.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Memory.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Http.Json.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Http.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.HttpListener.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Mail.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.NameResolution.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.NetworkInformation.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Ping.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Primitives.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Quic.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Requests.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Security.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.ServicePoint.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Sockets.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.WebClient.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.WebHeaderCollection.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.WebProxy.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.WebSockets.Client.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.WebSockets.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Numerics.Vectors.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Numerics.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ObjectModel.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Private.DataContractSerialization.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Private.Uri.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Private.Xml.Linq.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Private.Xml.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.DispatchProxy.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Emit.Lightweight.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Emit.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Extensions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Metadata.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Primitives.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.TypeExtensions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Resources.Reader.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Resources.ResourceManager.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Resources.Writer.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Extensions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Handles.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.InteropServices.JavaScript.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.InteropServices.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Intrinsics.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Loader.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Numerics.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Serialization.Formatters.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Serialization.Json.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Serialization.Primitives.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Serialization.Xml.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Serialization.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.AccessControl.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Claims.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.Algorithms.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.Cng.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.Csp.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.Encoding.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.Primitives.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Principal.Windows.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Principal.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.SecureString.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ServiceModel.Web.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ServiceProcess.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.Encoding.CodePages.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.Encoding.Extensions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.Encoding.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.Encodings.Web.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.Json.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.RegularExpressions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Channels.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Overlapped.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Tasks.Dataflow.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Tasks.Extensions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Tasks.Parallel.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Tasks.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Thread.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.ThreadPool.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Timer.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Transactions.Local.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Transactions.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ValueTuple.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Web.HttpUtility.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Web.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Windows.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.Linq.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.ReaderWriter.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.Serialization.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.XDocument.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.XPath.XDocument.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.XPath.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.XmlDocument.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.XmlSerializer.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/WindowsBase.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/mscorlib.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/netstandard.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.iOS.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.Controls.Compatibility.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.Controls.Xaml.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.Controls.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.Essentials.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Private.CoreLib.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/icudt.dat
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/icudt_CJK.dat
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/icudt_EFIGS.dat
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/icudt_no_CJK.dat
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.IO.Compression.Native.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.IO.Compression.Native.dylib
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Native.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Native.dylib
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Net.Security.Native.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Net.Security.Native.dylib
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Security.Cryptography.Native.Apple.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libicudata.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libicui18n.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libicuuc.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-debugger-static.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-debugger-stub-static.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-debugger.dylib
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing-static.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing-stub-static.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing.dylib
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-hot_reload-static.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-hot_reload-stub-static.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-hot_reload.dylib
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmonosgen-2.0.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmonosgen-2.0.dylib
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.iOS.registrar.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libextension-dotnet.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet-debug.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet-debug.dylib
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet.a
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet.dylib
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauiimage.inputs
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauifont.inputs
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauisplash.inputs
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/sp/MauiSplash.storyboard
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauisplash.stamp
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash@2x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash@3x.png
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauiimage.stamp
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/MauiInfo.plist
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauifont.stamp
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Semibold.ttf
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/actool/_PartialAppManifest.items
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/actool/_BundleResourceWithLogicalName.items
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/actool/_ProcessedImageAssetsPath.items
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/ibtool/_BundleResourceWithLogicalName.items
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_PartialAppManifest.items
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/_ProcessedBundleResourcesPath.items
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/_ProcessedContentPath.items
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.csproj.AssemblyReference.cache
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.AssemblyInfoInputs.cache
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.AssemblyInfo.cs
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.csproj.CoreCompileInputs.cache
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/XamlC.stamp
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.csproj.CopyComplete
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/refint/TDPMW_412_3P_EJ01.dll
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.pdb
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.genruntimeconfig.cache
+/Users/braulioalejandronavarretehorta/Desktop/Cuarto Semestre/TALLER WINDOWS/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/ref/TDPMW_412_3P_EJ01.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.runtimeconfig.json
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.pdb
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Configuration.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Logging.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Logging.Debug.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Options.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Extensions.Primitives.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.Graphics.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.CSharp.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.VisualBasic.Core.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.VisualBasic.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Win32.Primitives.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Win32.Registry.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.AppContext.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Buffers.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Collections.Concurrent.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Collections.Immutable.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Collections.NonGeneric.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Collections.Specialized.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Collections.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.Annotations.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.DataAnnotations.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.Primitives.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.TypeConverter.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ComponentModel.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Configuration.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Console.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Core.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Data.Common.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Data.DataSetExtensions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Data.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.Contracts.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.Debug.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.Process.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.StackTrace.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.Tools.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.TraceSource.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Diagnostics.Tracing.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Drawing.Primitives.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Drawing.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Dynamic.Runtime.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Formats.Asn1.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Formats.Tar.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Globalization.Calendars.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Globalization.Extensions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Globalization.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Compression.Brotli.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Compression.FileSystem.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Compression.ZipFile.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Compression.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.FileSystem.AccessControl.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.FileSystem.Primitives.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.FileSystem.Watcher.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.FileSystem.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.IsolatedStorage.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.MemoryMappedFiles.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Pipes.AccessControl.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.Pipes.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.IO.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Linq.Expressions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Linq.Parallel.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Linq.Queryable.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Linq.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Memory.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Http.Json.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Http.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.HttpListener.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Mail.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.NameResolution.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.NetworkInformation.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Ping.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Primitives.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Quic.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Requests.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Security.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.ServicePoint.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.Sockets.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.WebClient.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.WebHeaderCollection.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.WebProxy.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.WebSockets.Client.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.WebSockets.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Net.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Numerics.Vectors.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Numerics.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ObjectModel.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Private.DataContractSerialization.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Private.Uri.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Private.Xml.Linq.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Private.Xml.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.DispatchProxy.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Emit.Lightweight.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Emit.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Extensions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Metadata.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.Primitives.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.TypeExtensions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Reflection.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Resources.Reader.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Resources.ResourceManager.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Resources.Writer.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Extensions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Handles.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.InteropServices.JavaScript.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.InteropServices.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Intrinsics.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Loader.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Numerics.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Serialization.Formatters.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Serialization.Json.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Serialization.Primitives.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Serialization.Xml.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.Serialization.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Runtime.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.AccessControl.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Claims.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.Algorithms.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.Cng.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.Csp.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.Encoding.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.Primitives.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Cryptography.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Principal.Windows.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.Principal.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.SecureString.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Security.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ServiceModel.Web.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ServiceProcess.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.Encoding.CodePages.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.Encoding.Extensions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.Encoding.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.Encodings.Web.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.Json.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Text.RegularExpressions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Channels.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Overlapped.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Tasks.Dataflow.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Tasks.Extensions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Tasks.Parallel.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Tasks.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Thread.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.ThreadPool.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.Timer.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Threading.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Transactions.Local.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Transactions.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.ValueTuple.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Web.HttpUtility.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Web.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Windows.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.Linq.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.ReaderWriter.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.Serialization.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.XDocument.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.XPath.XDocument.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.XPath.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.XmlDocument.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.XmlSerializer.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Xml.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/WindowsBase.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/mscorlib.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/netstandard.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.iOS.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.Controls.Compatibility.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.Controls.Xaml.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.Controls.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.Maui.Essentials.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/System.Private.CoreLib.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/icudt.dat
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/icudt_CJK.dat
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/icudt_EFIGS.dat
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/icudt_no_CJK.dat
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.IO.Compression.Native.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.IO.Compression.Native.dylib
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Native.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Native.dylib
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Net.Security.Native.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Net.Security.Native.dylib
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Security.Cryptography.Native.Apple.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libicudata.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libicui18n.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libicuuc.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-debugger-static.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-debugger-stub-static.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-debugger.dylib
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing-static.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing-stub-static.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing.dylib
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-hot_reload-static.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-hot_reload-stub-static.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmono-component-hot_reload.dylib
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmonosgen-2.0.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libmonosgen-2.0.dylib
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/Microsoft.iOS.registrar.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libextension-dotnet.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet-debug.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet-debug.dylib
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet.a
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet.dylib
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauiimage.inputs
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauifont.inputs
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauisplash.inputs
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/sp/MauiSplash.storyboard
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauisplash.stamp
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash@2x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash@3x.png
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauiimage.stamp
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/MauiInfo.plist
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mauifont.stamp
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Semibold.ttf
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/actool/_PartialAppManifest.items
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/actool/_BundleResourceWithLogicalName.items
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/actool/_ProcessedImageAssetsPath.items
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/ibtool/_BundleResourceWithLogicalName.items
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_PartialAppManifest.items
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/_ProcessedBundleResourcesPath.items
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/_ProcessedContentPath.items
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.csproj.AssemblyReference.cache
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.AssemblyInfoInputs.cache
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.AssemblyInfo.cs
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.csproj.CoreCompileInputs.cache
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/XamlC.stamp
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.csproj.CopyComplete
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/refint/TDPMW_412_3P_EJ01.dll
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.pdb
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/TDPMW_412_3P_EJ01.genruntimeconfig.cache
+/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/ref/TDPMW_412_3P_EJ01.dll

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9681059E-7685-40CA-937D-2FA15B64091D}|Default">
+  <MonoDevelop.Ide.ItemProperties.TDPMW__412__3P__EJ01 PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TDPMW_412_3P_EJ01/MainPage.xaml">
+    <Files>
+      <File FileName="TDPMW_412_3P_EJ01/MainPage.xaml" Line="34" Column="44" IsPinned="True" />
+      <File FileName="TDPMW_412_3P_EJ01/MainPage.xaml.cs" Line="50" Column="12" />
+      <File FileName="TDPMW_412_3P_EJ01/Platforms/iOS/Program.cs" />
+      <File FileName="TDPMW_412_3P_EJ01/MauiProgram.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TDPMW_412_3P_EJ01" expanded="True">
+            <Node name="TDPMW_412_3P_EJ01" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Fonts" expanded="True" />
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

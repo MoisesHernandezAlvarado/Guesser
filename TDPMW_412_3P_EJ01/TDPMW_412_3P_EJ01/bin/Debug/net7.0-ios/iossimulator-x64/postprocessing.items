@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="TDPMW_412_3P_EJ01.app/TDPMW_412_3P_EJ01">
+      <BCSymbolMapName>TDPMW_412_3P_EJ01.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>TDPMW_412_3P_EJ01.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>TDPMW_412_3P_EJ01.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/moyo/Desktop/TDPMW_412_3P_EJ01/TDPMW_412_3P_EJ01</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
